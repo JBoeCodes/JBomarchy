@@ -1,0 +1,466 @@
+INFO 10/14/2025, 7:50:52 PM  22  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime]
+INFO 10/14/2025, 7:50:52 PM  70  ------------------start------------------
+DEBUG 10/14/2025, 7:50:52 PM  77  before setting 
+DEBUG 10/14/2025, 7:50:52 PM  88  prepDatabase /home/jboe/.config/Typora/profile.data
+DEBUG 10/14/2025, 7:50:52 PM  90  prepDatabase /home/jboe/.config/Typora/history.data
+INFO 10/14/2025, 7:50:52 PM  91  OS is linux 6.17.1-arch1-1
+INFO 10/14/2025, 7:50:52 PM  91  launchFromDiffVersion, pre version is undefined
+INFO 10/14/2025, 7:50:52 PM  91  start LM in devVersion=false
+INFO 10/14/2025, 7:50:52 PM  96  overwriteThemeFolder
+DEBUG 10/14/2025, 7:50:52 PM  97  after setting 
+INFO 10/14/2025, 7:50:52 PM  97  typora version: 1.12.1
+DEBUG 10/14/2025, 7:50:53 PM  118  app.openFile
+INFO 10/14/2025, 7:50:53 PM  119  [watch L]
+DEBUG 10/14/2025, 7:50:53 PM  119  prepDatabase /home/jboe/.config/Typora/dkah6z01oC
+INFO 10/14/2025, 7:50:53 PM  120  no info
+INFO 10/14/2025, 7:50:53 PM  121  ls put SLicense
+DEBUG 10/14/2025, 7:50:53 PM  121  onUnfillLicense
+DEBUG 10/14/2025, 7:50:53 PM  121  trailRemains is 15
+INFO 10/14/2025, 7:50:53 PM  121  [L] installDate is 10/14/2025, trail remains: 15 days
+DEBUG 10/14/2025, 7:50:53 PM  121  onUnfillLicense
+INFO 10/14/2025, 7:50:53 PM  121  [watch L] hasL: false
+DEBUG 10/14/2025, 7:50:53 PM  143  added recovery 1 null  (0)
+DEBUG 10/14/2025, 7:50:53 PM  147  putAccelerator File -> &File
+DEBUG 10/14/2025, 7:50:53 PM  148  putAccelerator Edit -> &Edit
+DEBUG 10/14/2025, 7:50:53 PM  148  putAccelerator Paragraph -> &Paragraph
+DEBUG 10/14/2025, 7:50:53 PM  148  putAccelerator Format -> F&ormat
+DEBUG 10/14/2025, 7:50:53 PM  148  putAccelerator View -> &View
+DEBUG 10/14/2025, 7:50:53 PM  148  putAccelerator Themes -> &Themes
+DEBUG 10/14/2025, 7:50:53 PM  148  putAccelerator Help -> &Help
+INFO 10/14/2025, 7:50:53 PM  181  synced recovery
+user-dict.json not found
+INFO 10/14/2025, 7:50:53 PM  333  [focus] 1
+DEBUG 10/14/2025, 7:50:53 PM  432  onUnfillLicense
+INFO 10/14/2025, 7:50:53 PM  440  handle document.loadData
+DEBUG 10/14/2025, 7:50:53 PM  440  document.loadData 0
+ERROR 10/14/2025, 7:50:53 PM  440  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 10/14/2025, 7:50:53 PM  442  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/14/2025, 7:50:53 PM  463  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 10/14/2025, 7:50:53 PM  463  [RenderProcess 1][Log] reset NodeMap
+DEBUG 10/14/2025, 7:50:53 PM  469  added recovery 1   (0)
+INFO 10/14/2025, 7:50:53 PM  470  synced recovery
+INFO 10/14/2025, 7:50:53 PM  536  [RenderProcess 1][Log] onBecomeActive
+INFO 10/14/2025, 7:50:53 PM  536  [RenderProcess 1][Log] File.activeWindow = true
+DEBUG 10/14/2025, 7:50:56 PM  4008  added recovery 1   (0)
+INFO 10/14/2025, 7:50:56 PM  4009  synced recovery
+DEBUG 10/14/2025, 7:51:08 PM  15899  added recovery 1  Jameson Boeshan
+
+
+
+
+
+This is a document
+
+ (41)
+INFO 10/14/2025, 7:51:08 PM  15899  synced recovery
+INFO 10/14/2025, 7:51:11 PM  19006  synced recovery
+INFO 10/14/2025, 7:51:11 PM  19006  ----------------before-quit-----------------
+INFO 10/14/2025, 7:51:11 PM  19006  ------------------will-quit------------------
+INFO 10/14/2025, 7:51:11 PM  19007  -----------------quit------------------
+INFO 10/14/2025, 7:51:11 PM  19007  closeLogging
+INFO 10/19/2025, 7:35:42 PM  22  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime]
+INFO 10/19/2025, 7:35:42 PM  67  ------------------start------------------
+DEBUG 10/19/2025, 7:35:42 PM  72  before setting 
+DEBUG 10/19/2025, 7:35:42 PM  83  prepDatabase /home/jboe/.config/Typora/profile.data
+DEBUG 10/19/2025, 7:35:42 PM  85  prepDatabase /home/jboe/.config/Typora/history.data
+INFO 10/19/2025, 7:35:42 PM  87  OS is linux 6.17.3-arch2-1
+INFO 10/19/2025, 7:35:42 PM  87  launchFromDiffVersion, pre version is 1.12.1
+INFO 10/19/2025, 7:35:42 PM  87  start LM in devVersion=false
+INFO 10/19/2025, 7:35:42 PM  92  overwriteThemeFolder
+DEBUG 10/19/2025, 7:35:42 PM  93  after setting 
+INFO 10/19/2025, 7:35:42 PM  93  typora version: 1.12.2
+INFO 10/19/2025, 7:35:42 PM  114  [watch L]
+DEBUG 10/19/2025, 7:35:42 PM  114  prepDatabase /home/jboe/.config/Typora/dkah6z01oC
+INFO 10/19/2025, 7:35:42 PM  116  no info
+INFO 10/19/2025, 7:35:42 PM  116  ls put SLicense
+DEBUG 10/19/2025, 7:35:42 PM  116  onUnfillLicense
+DEBUG 10/19/2025, 7:35:42 PM  116  trailRemains is 11
+INFO 10/19/2025, 7:35:42 PM  116  [L] installDate is 10/14/2025, trail remains: 11 days
+DEBUG 10/19/2025, 7:35:42 PM  116  onUnfillLicense
+INFO 10/19/2025, 7:35:42 PM  116  [watch L] hasL: false
+user-dict.json not found
+DEBUG 10/19/2025, 7:35:42 PM  120  app.openFile
+DEBUG 10/19/2025, 7:35:42 PM  121  putAccelerator File -> &File
+DEBUG 10/19/2025, 7:35:42 PM  121  putAccelerator Edit -> &Edit
+DEBUG 10/19/2025, 7:35:42 PM  121  putAccelerator Paragraph -> &Paragraph
+DEBUG 10/19/2025, 7:35:42 PM  121  putAccelerator Format -> F&ormat
+DEBUG 10/19/2025, 7:35:42 PM  121  putAccelerator View -> &View
+DEBUG 10/19/2025, 7:35:42 PM  121  putAccelerator Themes -> &Themes
+DEBUG 10/19/2025, 7:35:42 PM  121  putAccelerator Help -> &Help
+DEBUG 10/19/2025, 7:35:42 PM  148  added recovery 1 null  (0)
+INFO 10/19/2025, 7:35:42 PM  176  synced recovery
+INFO 10/19/2025, 7:35:42 PM  299  [focus] 1
+DEBUG 10/19/2025, 7:35:42 PM  442  onUnfillLicense
+ERROR 10/19/2025, 7:35:42 PM  449  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/19/2025, 7:35:42 PM  450  handle document.loadData
+DEBUG 10/19/2025, 7:35:42 PM  450  document.loadData 0
+ERROR 10/19/2025, 7:35:42 PM  450  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/19/2025, 7:35:42 PM  474  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 10/19/2025, 7:35:42 PM  474  [RenderProcess 1][Log] reset NodeMap
+DEBUG 10/19/2025, 7:35:42 PM  480  added recovery 1   (0)
+INFO 10/19/2025, 7:35:42 PM  481  synced recovery
+INFO 10/19/2025, 7:35:42 PM  548  [RenderProcess 1][Log] onBecomeActive
+INFO 10/19/2025, 7:35:42 PM  548  [RenderProcess 1][Log] File.activeWindow = true
+INFO 10/19/2025, 7:35:44 PM  1879  synced recovery
+INFO 10/19/2025, 7:35:44 PM  1879  ----------------before-quit-----------------
+INFO 10/19/2025, 7:35:44 PM  1879  ------------------will-quit------------------
+INFO 10/19/2025, 7:35:44 PM  1880  -----------------quit------------------
+INFO 10/19/2025, 7:35:44 PM  1880  closeLogging
+INFO 10/19/2025, 7:57:39 PM  19  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime]
+INFO 10/19/2025, 7:57:39 PM  58  ------------------start------------------
+DEBUG 10/19/2025, 7:57:39 PM  61  before setting 
+DEBUG 10/19/2025, 7:57:39 PM  70  prepDatabase /home/jboe/.config/Typora/profile.data
+DEBUG 10/19/2025, 7:57:39 PM  72  prepDatabase /home/jboe/.config/Typora/history.data
+INFO 10/19/2025, 7:57:39 PM  73  OS is linux 6.17.3-arch2-1
+INFO 10/19/2025, 7:57:39 PM  73  start LM in devVersion=false
+DEBUG 10/19/2025, 7:57:39 PM  78  after setting 
+INFO 10/19/2025, 7:57:39 PM  78  typora version: 1.12.2
+INFO 10/19/2025, 7:57:39 PM  99  [watch L]
+DEBUG 10/19/2025, 7:57:39 PM  99  prepDatabase /home/jboe/.config/Typora/dkah6z01oC
+INFO 10/19/2025, 7:57:39 PM  101  no info
+INFO 10/19/2025, 7:57:39 PM  101  ls put SLicense
+DEBUG 10/19/2025, 7:57:39 PM  101  onUnfillLicense
+DEBUG 10/19/2025, 7:57:39 PM  101  trailRemains is 10
+INFO 10/19/2025, 7:57:39 PM  101  [L] installDate is 10/14/2025, trail remains: 10 days
+DEBUG 10/19/2025, 7:57:39 PM  101  onUnfillLicense
+INFO 10/19/2025, 7:57:39 PM  101  [watch L] hasL: false
+user-dict.json not found
+DEBUG 10/19/2025, 7:57:39 PM  105  app.openFile
+DEBUG 10/19/2025, 7:57:39 PM  106  putAccelerator File -> &File
+DEBUG 10/19/2025, 7:57:39 PM  106  putAccelerator Edit -> &Edit
+DEBUG 10/19/2025, 7:57:39 PM  106  putAccelerator Paragraph -> &Paragraph
+DEBUG 10/19/2025, 7:57:39 PM  106  putAccelerator Format -> F&ormat
+DEBUG 10/19/2025, 7:57:39 PM  106  putAccelerator View -> &View
+DEBUG 10/19/2025, 7:57:39 PM  106  putAccelerator Themes -> &Themes
+DEBUG 10/19/2025, 7:57:39 PM  106  putAccelerator Help -> &Help
+DEBUG 10/19/2025, 7:57:39 PM  136  added recovery 1 null  (0)
+INFO 10/19/2025, 7:57:39 PM  163  synced recovery
+INFO 10/19/2025, 7:57:40 PM  295  [focus] 1
+INFO 10/19/2025, 7:57:40 PM  305  [blur] 1
+INFO 10/19/2025, 7:57:40 PM  305  [win] blur
+INFO 10/19/2025, 7:57:40 PM  305  [focus] 2
+DEBUG 10/19/2025, 7:57:40 PM  434  onUnfillLicense
+ERROR 10/19/2025, 7:57:40 PM  439  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/19/2025, 7:57:40 PM  440  handle document.loadData
+DEBUG 10/19/2025, 7:57:40 PM  440  document.loadData 0
+ERROR 10/19/2025, 7:57:40 PM  440  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/19/2025, 7:57:40 PM  461  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 10/19/2025, 7:57:40 PM  461  [RenderProcess 1][Log] reset NodeMap
+DEBUG 10/19/2025, 7:57:40 PM  467  added recovery 1   (0)
+INFO 10/19/2025, 7:57:40 PM  468  synced recovery
+INFO 10/19/2025, 7:57:40 PM  535  [RenderProcess 1][Log] onBecomeActive
+INFO 10/19/2025, 7:57:40 PM  535  [RenderProcess 1][Log] File.activeWindow = true
+INFO 10/19/2025, 7:57:40 PM  536  [blur] 2
+INFO 10/19/2025, 7:57:40 PM  536  [focus] 1
+INFO 10/19/2025, 7:57:40 PM  981  [blur] 1
+INFO 10/19/2025, 7:57:40 PM  981  [win] blur
+INFO 10/19/2025, 7:57:40 PM  1050  [focus] 2
+INFO 10/19/2025, 7:57:40 PM  1109  [blur] 2
+INFO 10/19/2025, 7:57:41 PM  1356  [focus] 2
+INFO 10/19/2025, 7:57:42 PM  2511  [focus] 1
+ERROR 10/19/2025, 7:57:46 PM  6670  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 10/19/2025, 7:57:46 PM  6671  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 10/19/2025, 7:57:49 PM  9842  added recovery 1  reglk;egj;lsdfjg
+
+dfsl'gjl;dskg;l (33)
+INFO 10/19/2025, 7:57:49 PM  9842  synced recovery
+INFO 10/19/2025, 7:57:51 PM  11924  synced recovery
+INFO 10/19/2025, 7:57:51 PM  11924  ----------------before-quit-----------------
+INFO 10/19/2025, 7:57:51 PM  11924  ------------------will-quit------------------
+INFO 10/19/2025, 7:57:51 PM  11925  -----------------quit------------------
+INFO 10/19/2025, 7:57:51 PM  11925  closeLogging
+INFO 10/19/2025, 7:58:09 PM  19  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime]
+INFO 10/19/2025, 7:58:09 PM  60  ------------------start------------------
+DEBUG 10/19/2025, 7:58:09 PM  64  before setting 
+DEBUG 10/19/2025, 7:58:09 PM  73  prepDatabase /home/jboe/.config/Typora/profile.data
+DEBUG 10/19/2025, 7:58:09 PM  75  prepDatabase /home/jboe/.config/Typora/history.data
+INFO 10/19/2025, 7:58:09 PM  76  OS is linux 6.17.3-arch2-1
+INFO 10/19/2025, 7:58:09 PM  76  start LM in devVersion=false
+DEBUG 10/19/2025, 7:58:09 PM  82  after setting 
+INFO 10/19/2025, 7:58:09 PM  82  typora version: 1.12.2
+INFO 10/19/2025, 7:58:09 PM  103  [watch L]
+DEBUG 10/19/2025, 7:58:09 PM  103  prepDatabase /home/jboe/.config/Typora/dkah6z01oC
+INFO 10/19/2025, 7:58:09 PM  104  no info
+INFO 10/19/2025, 7:58:09 PM  104  ls put SLicense
+DEBUG 10/19/2025, 7:58:09 PM  104  onUnfillLicense
+DEBUG 10/19/2025, 7:58:09 PM  104  trailRemains is 10
+INFO 10/19/2025, 7:58:09 PM  104  [L] installDate is 10/14/2025, trail remains: 10 days
+DEBUG 10/19/2025, 7:58:09 PM  104  onUnfillLicense
+INFO 10/19/2025, 7:58:09 PM  104  [watch L] hasL: false
+user-dict.json not found
+DEBUG 10/19/2025, 7:58:09 PM  111  app.openFile
+DEBUG 10/19/2025, 7:58:09 PM  111  putAccelerator File -> &File
+DEBUG 10/19/2025, 7:58:09 PM  112  putAccelerator Edit -> &Edit
+DEBUG 10/19/2025, 7:58:09 PM  112  putAccelerator Paragraph -> &Paragraph
+DEBUG 10/19/2025, 7:58:09 PM  112  putAccelerator Format -> F&ormat
+DEBUG 10/19/2025, 7:58:09 PM  112  putAccelerator View -> &View
+DEBUG 10/19/2025, 7:58:09 PM  112  putAccelerator Themes -> &Themes
+DEBUG 10/19/2025, 7:58:09 PM  112  putAccelerator Help -> &Help
+DEBUG 10/19/2025, 7:58:09 PM  139  added recovery 1 null  (0)
+INFO 10/19/2025, 7:58:09 PM  165  synced recovery
+INFO 10/19/2025, 7:58:10 PM  281  [focus] 1
+DEBUG 10/19/2025, 7:58:10 PM  413  onUnfillLicense
+ERROR 10/19/2025, 7:58:10 PM  417  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/19/2025, 7:58:10 PM  418  handle document.loadData
+DEBUG 10/19/2025, 7:58:10 PM  418  document.loadData 0
+ERROR 10/19/2025, 7:58:10 PM  418  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/19/2025, 7:58:10 PM  451  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 10/19/2025, 7:58:10 PM  451  [RenderProcess 1][Log] reset NodeMap
+DEBUG 10/19/2025, 7:58:10 PM  457  added recovery 1   (0)
+INFO 10/19/2025, 7:58:10 PM  458  synced recovery
+INFO 10/19/2025, 7:58:10 PM  527  [RenderProcess 1][Log] onBecomeActive
+INFO 10/19/2025, 7:58:10 PM  527  [RenderProcess 1][Log] File.activeWindow = true
+ERROR 10/19/2025, 7:58:12 PM  2648  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 10/19/2025, 7:58:12 PM  2649  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 10/19/2025, 7:58:15 PM  5694  added recovery 1  sdfasldfhsdkl;j
+
+sdajkllksdjaf (30)
+INFO 10/19/2025, 7:58:15 PM  5695  synced recovery
+DEBUG 10/19/2025, 7:58:17 PM  7689  added recovery 1  sdfasldfhsdkl;j
+
+sdajkllksdjaf
+
+Fir (35)
+INFO 10/19/2025, 7:58:17 PM  7690  synced recovery
+DEBUG 10/19/2025, 7:58:19 PM  9942  added recovery 1   (0)
+INFO 10/19/2025, 7:58:19 PM  9942  synced recovery
+DEBUG 10/19/2025, 7:58:21 PM  11462  added recovery 1  # Thi (5)
+INFO 10/19/2025, 7:58:21 PM  11462  synced recovery
+DEBUG 10/19/2025, 7:58:24 PM  14277  added recovery 1  # This is grea
+
+ (16)
+INFO 10/19/2025, 7:58:24 PM  14278  synced recovery
+DEBUG 10/19/2025, 7:58:26 PM  16292  added recovery 1  # This is grea
+
+Here is th (26)
+INFO 10/19/2025, 7:58:26 PM  16293  synced recovery
+DEBUG 10/19/2025, 7:58:28 PM  18829  added recovery 1  # This is grea
+
+Here is the deal
+
+I f (37)
+INFO 10/19/2025, 7:58:28 PM  18830  synced recovery
+DEBUG 10/19/2025, 7:58:30 PM  21166  added recovery 1  # This is grea
+
+Here is the deal
+
+I (35)
+INFO 10/19/2025, 7:58:30 PM  21167  synced recovery
+DEBUG 10/19/2025, 7:58:33 PM  23634  added recovery 1  # This is grea
+
+Here is the deal
+
+- I feel  (43)
+INFO 10/19/2025, 7:58:33 PM  23635  synced recovery
+DEBUG 10/19/2025, 7:58:36 PM  26298  added recovery 1  "# This is grea
+...ool
+- This work" (59)
+INFO 10/19/2025, 7:58:36 PM  26299  synced recovery
+DEBUG 10/19/2025, 7:58:38 PM  29007  added recovery 1  "# This is grea
+... really well
+- " (75)
+INFO 10/19/2025, 7:58:38 PM  29008  synced recovery
+DEBUG 10/19/2025, 7:58:43 PM  33942  added recovery 1   (0)
+INFO 10/19/2025, 7:58:43 PM  33943  synced recovery
+INFO 10/19/2025, 7:58:44 PM  34415  [blur] 1
+INFO 10/19/2025, 7:58:44 PM  34415  [win] blur
+INFO 10/19/2025, 7:58:46 PM  36898  [focus] 1
+INFO 10/19/2025, 7:58:46 PM  36988  [blur] 1
+INFO 10/19/2025, 7:58:46 PM  36989  [win] blur
+DEBUG 10/19/2025, 7:58:51 PM  41387  app.openFile
+INFO 10/19/2025, 7:58:51 PM  41393  addRecentDocument
+DEBUG 10/19/2025, 7:58:51 PM  41402  added recovery 3 /home/jboe/JBomarchy/README.md  (0)
+INFO 10/19/2025, 7:58:51 PM  41403  [focus] 1
+INFO 10/19/2025, 7:58:51 PM  41404  [blur] 1
+INFO 10/19/2025, 7:58:51 PM  41404  [win] blur
+INFO 10/19/2025, 7:58:51 PM  41406  synced recovery
+INFO 10/19/2025, 7:58:51 PM  41411  [focus] 3
+INFO 10/19/2025, 7:58:51 PM  41549  [blur] 3
+INFO 10/19/2025, 7:58:51 PM  41549  [win] blur
+INFO 10/19/2025, 7:58:51 PM  41549  [focus] 1
+DEBUG 10/19/2025, 7:58:51 PM  41644  onUnfillLicense
+ERROR 10/19/2025, 7:58:51 PM  41650  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 10/19/2025, 7:58:51 PM  41650  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/19/2025, 7:58:51 PM  41651  handle document.loadData
+DEBUG 10/19/2025, 7:58:51 PM  41651  document.loadData 0
+INFO 10/19/2025, 7:58:51 PM  41665  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 10/19/2025, 7:58:51 PM  41665  [RenderProcess 3][Log] reset NodeMap
+INFO 10/19/2025, 7:58:51 PM  41665  [RenderProcess 3][Log] readContentFrom /home/jboe/JBomarchy/README.md
+DEBUG 10/19/2025, 7:58:51 PM  41723  added recovery 3 /home/jboe/JBomarchy/README.md  (0)
+INFO 10/19/2025, 7:58:51 PM  41725  synced recovery
+INFO 10/19/2025, 7:58:51 PM  41739  [blur] 1
+INFO 10/19/2025, 7:58:51 PM  41739  [win] blur
+INFO 10/19/2025, 7:58:51 PM  41739  [focus] 3
+INFO 10/19/2025, 7:58:51 PM  41742  [RenderProcess 3][Log] onBecomeActive
+INFO 10/19/2025, 7:58:51 PM  41742  [RenderProcess 3][Log] File.activeWindow = true
+INFO 10/19/2025, 7:58:51 PM  42118  [blur] 3
+INFO 10/19/2025, 7:58:51 PM  42118  [win] blur
+INFO 10/19/2025, 7:58:51 PM  42239  [focus] 3
+INFO 10/19/2025, 7:58:52 PM  42336  [blur] 3
+INFO 10/19/2025, 7:58:52 PM  42336  [win] blur
+INFO 10/19/2025, 7:58:52 PM  42336  [focus] 1
+INFO 10/19/2025, 7:58:53 PM  43414  [blur] 1
+INFO 10/19/2025, 7:58:53 PM  43414  [win] blur
+INFO 10/19/2025, 7:58:53 PM  43414  [focus] 2
+INFO 10/19/2025, 7:58:53 PM  43416  [blur] 2
+INFO 10/19/2025, 7:58:53 PM  43416  [focus] 1
+INFO 10/19/2025, 7:58:53 PM  43460  [blur] 1
+INFO 10/19/2025, 7:58:53 PM  43460  [win] blur
+INFO 10/19/2025, 7:58:53 PM  43461  [focus] 2
+INFO 10/19/2025, 7:58:53 PM  43604  [blur] 2
+INFO 10/19/2025, 7:58:53 PM  43604  [focus] 1
+INFO 10/19/2025, 7:58:54 PM  44316  [blur] 1
+INFO 10/19/2025, 7:58:54 PM  44316  [win] blur
+INFO 10/19/2025, 7:58:54 PM  44316  [focus] 2
+INFO 10/19/2025, 7:58:54 PM  45049  [focus] 1
+INFO 10/19/2025, 7:58:54 PM  45053  [blur] 1
+INFO 10/19/2025, 7:58:54 PM  45053  [win] blur
+INFO 10/19/2025, 7:58:54 PM  45053  [focus] 3
+INFO 10/19/2025, 7:58:54 PM  45111  [blur] 3
+INFO 10/19/2025, 7:58:54 PM  45111  [win] blur
+INFO 10/19/2025, 7:58:54 PM  45111  [focus] 1
+INFO 10/19/2025, 7:58:55 PM  45731  [focus] 3
+DEBUG 10/19/2025, 7:58:57 PM  47388  added recovery 3 /home/jboe/JBomarchy/README.md "# JBomarchy
+JBo...ily on Omarchy
+" (63)
+INFO 10/19/2025, 7:58:57 PM  47389  synced recovery
+DEBUG 10/19/2025, 7:59:01 PM  51683  added recovery 3 /home/jboe/JBomarchy/README.md "# JBomarchy
+JBo... on Omarchy
+
+
+
+" (66)
+INFO 10/19/2025, 7:59:01 PM  51684  synced recovery
+DEBUG 10/19/2025, 7:59:03 PM  53951  added recovery 3 /home/jboe/JBomarchy/README.md "# JBomarchy
+JBo...ly on Omarchy
+
+" (64)
+INFO 10/19/2025, 7:59:03 PM  53952  synced recovery
+DEBUG 10/19/2025, 7:59:05 PM  55668  added recovery 3 /home/jboe/JBomarchy/README.md "# JBomarchy
+JBo...Omarchy
+
+App L
+" (70)
+INFO 10/19/2025, 7:59:05 PM  55669  synced recovery
+INFO 10/19/2025, 7:59:07 PM  57825  [blur] 3
+INFO 10/19/2025, 7:59:07 PM  57825  [win] blur
+INFO 10/19/2025, 7:59:08 PM  58709  [focus] 3
+DEBUG 10/19/2025, 7:59:10 PM  60399  added recovery 3 /home/jboe/JBomarchy/README.md "# JBomarchy
+JBo...
+
+App ListAeth
+" (77)
+INFO 10/19/2025, 7:59:10 PM  60400  synced recovery
+DEBUG 10/19/2025, 7:59:11 PM  61936  added recovery 3 /home/jboe/JBomarchy/README.md "# JBomarchy
+JBo...rchy
+
+App List
+" (73)
+INFO 10/19/2025, 7:59:11 PM  61937  synced recovery
+DEBUG 10/19/2025, 7:59:14 PM  64915  added recovery 3 /home/jboe/JBomarchy/README.md "# JBomarchy
+JBo...ist:
+
+- Aethar
+" (84)
+INFO 10/19/2025, 7:59:14 PM  64916  synced recovery
+DEBUG 10/19/2025, 7:59:15 PM  66014  added recovery 3 /home/jboe/JBomarchy/README.md "# JBomarchy
+JBo...:
+
+- Aethar
+- 
+" (87)
+INFO 10/19/2025, 7:59:15 PM  66014  synced recovery
+INFO 10/19/2025, 7:59:16 PM  66426  [blur] 3
+INFO 10/19/2025, 7:59:16 PM  66426  [win] blur
+INFO 10/19/2025, 7:59:16 PM  67101  [focus] 3
+INFO 10/19/2025, 7:59:19 PM  69381  [blur] 3
+INFO 10/19/2025, 7:59:19 PM  69381  [win] blur
+DEBUG 10/19/2025, 7:59:19 PM  69382  added recovery 3 /home/jboe/JBomarchy/README.md "# JBomarchy
+JBo...:
+
+- Aether
+- 
+" (87)
+INFO 10/19/2025, 7:59:19 PM  69383  synced recovery
+INFO 10/19/2025, 7:59:20 PM  70822  [focus] 3
+DEBUG 10/19/2025, 7:59:22 PM  73097  added recovery 3 /home/jboe/JBomarchy/README.md "# JBomarchy
+JBo...ether
+- Alacri
+" (93)
+INFO 10/19/2025, 7:59:22 PM  73098  synced recovery
+DEBUG 10/19/2025, 7:59:24 PM  74818  added recovery 3 /home/jboe/JBomarchy/README.md "# JBomarchy
+JBo...- Alacritty
+- 
+" (99)
+INFO 10/19/2025, 7:59:24 PM  74819  synced recovery
+INFO 10/19/2025, 7:59:24 PM  75110  [blur] 3
+INFO 10/19/2025, 7:59:24 PM  75110  [win] blur
+INFO 10/19/2025, 7:59:25 PM  76065  [focus] 3
+DEBUG 10/19/2025, 7:59:27 PM  77877  added recovery 3 /home/jboe/JBomarchy/README.md "# JBomarchy
+JBo...critty
+- Bluet
+" (104)
+INFO 10/19/2025, 7:59:27 PM  77878  synced recovery
+INFO 10/19/2025, 7:59:29 PM  79409  [blur] 3
+INFO 10/19/2025, 7:59:29 PM  79409  [win] blur
+INFO 10/19/2025, 7:59:31 PM  81262  [focus] 3
+INFO 10/19/2025, 7:59:33 PM  83868  [blur] 3
+INFO 10/19/2025, 7:59:33 PM  83868  [win] blur
+INFO 10/19/2025, 7:59:35 PM  85950  [focus] 3
+INFO 10/19/2025, 7:59:35 PM  86166  [blur] 3
+INFO 10/19/2025, 7:59:35 PM  86166  [win] blur
+INFO 10/19/2025, 8:00:02 PM  113115  [focus] 3
+INFO 10/19/2025, 8:00:02 PM  113175  [blur] 3
+INFO 10/19/2025, 8:00:02 PM  113175  [win] blur
+INFO 10/19/2025, 8:01:25 PM  196173  [focus] 3
+INFO 10/19/2025, 8:01:26 PM  196443  [blur] 3
+INFO 10/19/2025, 8:01:26 PM  196443  [win] blur
+INFO 10/19/2025, 8:01:47 PM  217639  [focus] 3
+INFO 10/19/2025, 8:01:47 PM  217758  [blur] 3
+INFO 10/19/2025, 8:01:47 PM  217758  [win] blur
+INFO 10/19/2025, 8:02:00 PM  230494  [focus] 3
+INFO 10/19/2025, 8:02:00 PM  230682  [blur] 3
+INFO 10/19/2025, 8:02:00 PM  230682  [win] blur
+INFO 10/19/2025, 8:02:06 PM  236764  [focus] 3
+INFO 10/19/2025, 8:02:06 PM  236877  [blur] 3
+INFO 10/19/2025, 8:02:06 PM  236877  [win] blur
+INFO 10/19/2025, 8:02:17 PM  248075  [focus] 3
+INFO 10/19/2025, 8:02:18 PM  248547  [blur] 3
+INFO 10/19/2025, 8:02:18 PM  248547  [win] blur
+INFO 10/19/2025, 8:02:18 PM  249065  [focus] 3
+INFO 10/19/2025, 8:02:18 PM  249132  [blur] 3
+INFO 10/19/2025, 8:02:18 PM  249132  [win] blur
+INFO 10/19/2025, 8:02:21 PM  252252  [focus] 3
+INFO 10/19/2025, 8:02:22 PM  252679  [blur] 3
+INFO 10/19/2025, 8:02:22 PM  252680  [win] blur
+INFO 10/19/2025, 8:03:08 PM  298798  [focus] 3
+INFO 10/19/2025, 8:03:08 PM  298895  [blur] 3
+INFO 10/19/2025, 8:03:08 PM  298895  [win] blur
