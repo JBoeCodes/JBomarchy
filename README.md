@@ -1,5 +1,5 @@
 # JBomarchy
-JBoe Arch-Hyprland Config based heavily on Omarchy
+WORK-IN-PROGRESS - JBoe Arch-Hyprland Config based heavily on Omarchy
 
 App List:
 
