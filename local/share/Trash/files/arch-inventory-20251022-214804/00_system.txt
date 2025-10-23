@@ -1,0 +1,48 @@
+
+===== host =====
+ Static hostname: jboearch
+       Icon name: computer-desktop
+         Chassis: desktop 🖥️
+      Machine ID: 79a9976534cf45b599797af7358b252b
+         Boot ID: 9988f4e4ff7a4d01ac615bd44e7cbd76
+Operating System: Arch Linux
+          Kernel: Linux 6.17.4-zen2-1-zen
+    Architecture: x86-64
+ Hardware Vendor: ASUS
+  Hardware Model: ROG STRIX Z690-E GAMING WIFI
+    Hardware SKU: SKU
+Hardware Version: System Version
+Firmware Version: 1720
+   Firmware Date: Fri 2022-08-12
+    Firmware Age: 3y 2month 1w 4d
+
+===== os-release =====
+NAME="Arch Linux"
+PRETTY_NAME="Arch Linux"
+ID=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://archlinux.org/"
+DOCUMENTATION_URL="https://wiki.archlinux.org/"
+SUPPORT_URL="https://bbs.archlinux.org/"
+BUG_REPORT_URL="https://gitlab.archlinux.org/groups/archlinux/-/issues"
+PRIVACY_POLICY_URL="https://terms.archlinux.org/docs/privacy-policy/"
+LOGO=archlinux-logo
+
+===== kernel =====
+Linux jboearch 6.17.4-zen2-1-zen #1 ZEN SMP PREEMPT_DYNAMIC Sun, 19 Oct 2025 19:21:05 +0000 x86_64 GNU/Linux
+linux-api-headers 6.16-2
+linux-firmware 20251011-1
+linux-firmware-amdgpu 20251011-1
+linux-firmware-atheros 20251011-1
+linux-firmware-broadcom 20251011-1
+linux-firmware-cirrus 20251011-1
+linux-firmware-intel 20251011-1
+linux-firmware-mediatek 20251011-1
+linux-firmware-nvidia 20251011-1
+linux-firmware-other 20251011-1
+linux-firmware-radeon 20251011-1
+linux-firmware-realtek 20251011-1
+linux-firmware-whence 20251011-1
+linux-zen 6.17.4.zen2-1
+linux-zen-headers 6.17.4.zen2-1

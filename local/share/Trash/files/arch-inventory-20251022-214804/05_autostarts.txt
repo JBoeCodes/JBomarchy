@@ -1,0 +1,14 @@
+
+===== user_autostart_desktop_files =====
+
+===== system_autostart_desktop_files =====
+at-spi-dbus-bus.desktop
+baloo_file.desktop
+blueman.desktop
+nm-applet.desktop
+polkit-kde-authentication-agent-1.desktop
+
+===== user_applications_desktop_files =====
+brave-browser.desktop
+brave-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.desktop
+brave-faolnafnngnfdaknnbpnkhgohbobgegn-Default.desktop

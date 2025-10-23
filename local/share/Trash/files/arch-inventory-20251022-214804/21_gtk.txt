@@ -1,0 +1,2 @@
+## /home/jboe/.config/gtk-3.0
+2025-10-22 13:22	/home/jboe/.config/gtk-3.0/settings.ini	     98

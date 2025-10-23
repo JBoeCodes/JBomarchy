@@ -1,0 +1,2 @@
+## /home/jboe/.config/hypr
+2025-10-22 21:30	/home/jboe/.config/hypr/hyprland.conf	   9310

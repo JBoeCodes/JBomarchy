@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/jboe/Wallpapers" added="2025-10-22T14:53:22.063000Z" modified="2025-10-22T14:53:22.063000Z" visited="2025-10-22T14:53:22.063000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %f" modified="2025-10-22T14:53:22.063000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jboe/wallpapers/arch-pixie.png" added="2025-10-22T15:53:46.049015Z" modified="2025-10-22T15:53:46.049031Z" visited="2025-10-22T15:53:46.049017Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2025-10-22T15:53:46.049024Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jboe/wallpapers/mars.png" added="2025-10-22T15:56:08.201978Z" modified="2025-10-22T15:56:08.201995Z" visited="2025-10-22T15:56:08.201981Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2025-10-22T15:56:08.201987Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jboe/wallpapers/basic-earth.png" added="2025-10-22T15:57:13.693229Z" modified="2025-10-22T15:57:13.693232Z" visited="2025-10-22T15:57:13.693230Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2025-10-22T15:57:13.693231Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jboe/wallpapers/solar-system.png" added="2025-10-22T15:59:23.040759Z" modified="2025-10-22T15:59:23.040785Z" visited="2025-10-22T15:59:23.040763Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2025-10-22T15:59:23.040770Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jboe/wallpapers/vaporwave-girl.png" added="2025-10-22T15:59:47.942645Z" modified="2025-10-22T15:59:47.942661Z" visited="2025-10-22T15:59:47.942647Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2025-10-22T15:59:47.942654Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jboe/wallpapers/blackhole.png" added="2025-10-22T16:00:26.487121Z" modified="2025-10-22T16:00:26.487160Z" visited="2025-10-22T16:00:26.487123Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2025-10-22T16:00:26.487153Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jboe/wallpapers/Nebula.png" added="2025-10-22T16:01:05.765733Z" modified="2025-10-22T16:01:05.765748Z" visited="2025-10-22T16:01:05.765735Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2025-10-22T16:01:05.765740Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jboe/wallpapers/dragon-space.jpg" added="2025-10-22T16:01:20.106422Z" modified="2025-10-22T16:01:20.106439Z" visited="2025-10-22T16:01:20.106424Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2025-10-22T16:01:20.106431Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jboe/wallpapers/spaceman-oled.png" added="2025-10-22T16:01:34.860458Z" modified="2025-10-22T16:01:34.860492Z" visited="2025-10-22T16:01:34.860472Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2025-10-22T16:01:34.860483Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jboe/wallpapers/spirited-away.png" added="2025-10-22T16:01:55.836789Z" modified="2025-10-22T16:01:55.836804Z" visited="2025-10-22T16:01:55.836791Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2025-10-22T16:01:55.836796Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jboe/wallpapers/sticker-starwars.png" added="2025-10-22T16:02:20.220503Z" modified="2025-10-22T16:02:20.220515Z" visited="2025-10-22T16:02:20.220504Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2025-10-22T16:02:20.220508Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jboe/wallpapers/constellation-earth.jpg" added="2025-10-22T16:02:32.094579Z" modified="2025-10-22T16:02:32.094596Z" visited="2025-10-22T16:02:32.094581Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2025-10-22T16:02:32.094588Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jboe/downloads/Hollow%20Knight%20Silksong%20(axekin.com).zip" added="2025-10-23T23:50:23.007648Z" modified="2025-10-23T23:50:23.007668Z" visited="2025-10-23T23:50:23.007650Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2025-10-23T23:50:23.007655Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jboe/downloads/Hollow%20Knight%20Silksong%20(axekin.com)%20(1).zip" added="2025-10-23T23:50:38.270743Z" modified="2025-10-23T23:50:38.270761Z" visited="2025-10-23T23:50:38.270746Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2025-10-23T23:50:38.270751Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jboe/downloads/Shin%20Megami%20Tensei%20V%20%5B0100B870126CE000%5D%5Bv0%5D(axekin.com).zip" added="2025-10-23T23:51:11.499191Z" modified="2025-10-23T23:51:11.499201Z" visited="2025-10-23T23:51:11.499193Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2025-10-23T23:51:11.499196Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

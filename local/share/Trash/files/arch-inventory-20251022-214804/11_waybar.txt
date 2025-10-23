@@ -1,0 +1,3 @@
+## /home/jboe/.config/waybar
+2025-10-21 22:12	/home/jboe/.config/waybar/config	   2264
+2025-10-22 13:14	/home/jboe/.config/waybar/style.css	   2027

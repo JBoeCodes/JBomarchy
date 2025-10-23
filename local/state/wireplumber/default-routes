@@ -1,0 +1,5 @@
+[default-routes]
+alsa_card.usb-Focusrite_Scarlett_2i2_USB_Y8GVNGX22D82CC-00:output:\oOut\c\sLine1={"channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "mute":false, "latencyOffsetNsec":0}
+alsa_card.usb-Focusrite_Scarlett_2i2_USB_Y8GVNGX22D82CC-00:profile:HiFi=["[Out] Line1"]
+alsa_card.usb-SteelSeries_Arctis_Nova_Pro_Wireless-00:output:analog-output={"mute":false, "channelVolumes":[0.274637, 0.274637], "channelMap":["FL", "FR"], "latencyOffsetNsec":0}
+alsa_card.usb-SteelSeries_Arctis_Nova_Pro_Wireless-00:profile:output:analog-stereo+input:mono-fallback=["analog-output"]

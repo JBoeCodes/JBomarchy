@@ -1,0 +1,31 @@
+
+===== pipewire_related =====
+alsa-card-profiles 1:1.4.9-1
+alsa-lib 1.2.14-2
+alsa-topology-conf 1.2.5.1-4
+alsa-ucm-conf 1.2.14-2
+pipewire 1:1.4.9-1
+pipewire-alsa 1:1.4.9-1
+pipewire-audio 1:1.4.9-1
+pipewire-jack 1:1.4.9-1
+pipewire-pulse 1:1.4.9-1
+wireplumber 0.5.12-1
+
+===== xdg_portals =====
+xdg-desktop-portal 1.20.3-2
+xdg-desktop-portal-hyprland 1.3.11-1
+
+===== hyprland_version =====
+Hyprland 0.51.1 built from branch  at commit 71a1216abcc7031776630a6d88f105605c4dc1c9  ([gha] Nix: update inputs).
+Date: Mon Sep 22 20:54:03 2025
+Tag: v0.51.1, commits: 6436
+built against:
+ aquamarine 0.9.5
+ hyprlang 0.6.3
+ hyprutils 0.10.0
+ hyprcursor 0.1.13
+ hyprgraphics 0.2.0
+
+
+no flags were set
+

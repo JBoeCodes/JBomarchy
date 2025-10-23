@@ -1,0 +1,364 @@
+
+===== system_services_unit_files =====
+UNIT FILE                                    STATE           PRESET
+archlinux-keyring-wkd-sync.service           static          -
+audit-rules.service                          disabled        disabled
+auditd.service                               disabled        disabled
+autovt@.service                              alias           -
+avahi-daemon.service                         disabled        disabled
+avahi-dnsconfd.service                       disabled        disabled
+blueman-mechanism.service                    disabled        disabled
+bluetooth.service                            enabled         disabled
+breakpoint-pre-basic.service                 static          -
+breakpoint-pre-mount.service                 static          -
+breakpoint-pre-switch-root.service           static          -
+breakpoint-pre-udev.service                  static          -
+btrfs-scrub@.service                         static          -
+canberra-system-bootup.service               disabled        disabled
+canberra-system-shutdown-reboot.service      disabled        disabled
+canberra-system-shutdown.service             disabled        disabled
+capsule@.service                             static          -
+console-getty.service                        disabled        disabled
+container-getty@.service                     static          -
+cups-lpd@.service                            static          -
+cups.service                                 enabled         disabled
+dbus-broker.service                          disabled        disabled
+dbus-org.bluez.service                       alias           -
+dbus-org.freedesktop.hostname1.service       alias           -
+dbus-org.freedesktop.import1.service         alias           -
+dbus-org.freedesktop.locale1.service         alias           -
+dbus-org.freedesktop.login1.service          alias           -
+dbus-org.freedesktop.machine1.service        alias           -
+dbus-org.freedesktop.nm-dispatcher.service   alias           -
+dbus-org.freedesktop.portable1.service       alias           -
+dbus-org.freedesktop.timedate1.service       alias           -
+dbus-org.freedesktop.timesync1.service       alias           -
+dbus.service                                 alias           -
+debug-shell.service                          disabled        disabled
+dirmngr@.service                             static          -
+display-manager.service                      alias           -
+dm-event.service                             static          -
+e2scrub@.service                             static          -
+e2scrub_all.service                          static          -
+e2scrub_fail@.service                        static          -
+e2scrub_reap.service                         disabled        disabled
+ead.service                                  disabled        disabled
+emergency.service                            static          -
+fancontrol.service                           disabled        disabled
+fstrim.service                               static          -
+getty@.service                               enabled         enabled
+git-daemon@.service                          static          -
+gpg-agent@.service                           static          -
+gpm.service                                  disabled        disabled
+gpsd.service                                 disabled        disabled
+gpsdctl@.service                             static          -
+healthd.service                              disabled        disabled
+initrd-cleanup.service                       static          -
+initrd-parse-etc.service                     static          -
+initrd-switch-root.service                   static          -
+initrd-udevadm-cleanup-db.service            static          -
+ip6tables.service                            disabled        disabled
+iptables.service                             disabled        disabled
+iwd.service                                  disabled        disabled
+keyboxd@.service                             static          -
+kmod-static-nodes.service                    static          -
+krb5-kadmind.service                         disabled        disabled
+krb5-kdc.service                             disabled        disabled
+krb5-kpropd.service                          disabled        disabled
+krb5-kpropd@.service                         static          -
+lastlog2-import.service                      disabled        disabled
+ldconfig.service                             static          -
+lm_sensors.service                           disabled        disabled
+ly.service                                   enabled         disabled
+mdadm-grow-continue@.service                 static          -
+mdadm-last-resort@.service                   static          -
+mdcheck_continue.service                     static          -
+mdcheck_start.service                        static          -
+mdmon@.service                               static          -
+mdmonitor-oneshot.service                    static          -
+mdmonitor.service                            static          -
+mkinitcpio-generate-shutdown-ramfs.service   static          -
+modprobe@.service                            static          -
+NetworkManager-config-initrd.service         disabled        disabled
+NetworkManager-dispatcher.service            enabled         disabled
+NetworkManager-initrd.service                disabled        disabled
+NetworkManager-wait-online-initrd.service    disabled        disabled
+NetworkManager-wait-online.service           enabled         disabled
+NetworkManager.service                       enabled         disabled
+nm-priv-helper.service                       static          -
+nvidia-hibernate.service                     enabled         disabled
+nvidia-persistenced.service                  disabled        disabled
+nvidia-powerd.service                        disabled        disabled
+nvidia-resume.service                        enabled         disabled
+nvidia-suspend-then-hibernate.service        disabled        disabled
+nvidia-suspend.service                       enabled         disabled
+paccache.service                             static          -
+pacman-filesdb-refresh.service               static          -
+pam_namespace.service                        static          -
+pcscd.service                                indirect        disabled
+polkit.service                               static          -
+quotaon-root.service                         static          -
+quotaon@.service                             static          -
+rescue.service                               static          -
+rfkill-block@.service                        disabled        disabled
+rfkill-unblock@.service                      disabled        disabled
+rtkit-daemon.service                         disabled        disabled
+seatd.service                                enabled         disabled
+sensord.service                              disabled        disabled
+serial-getty@.service                        disabled        disabled
+shadow.service                               static          -
+smartd.service                               disabled        disabled
+snapper-backup.service                       static          -
+snapper-boot.service                         static          -
+snapper-cleanup.service                      static          -
+snapper-timeline.service                     static          -
+snapperd.service                             static          -
+sndiod.service                               disabled        disabled
+sshd-unix-local@.service                     alias           -
+sshd.service                                 disabled        disabled
+sshd@.service                                indirect        disabled
+sshdgenkeys.service                          disabled        disabled
+sudo_logsrvd.service                         disabled        disabled
+system-update-cleanup.service                static          -
+systemd-ask-password-console.service         static          -
+systemd-ask-password-wall.service            static          -
+systemd-ask-password@.service                static          -
+systemd-backlight@.service                   static          -
+systemd-battery-check.service                static          -
+systemd-binfmt.service                       static          -
+systemd-bless-boot.service                   static          -
+systemd-boot-check-no-failures.service       disabled        disabled
+systemd-boot-clear-sysfail.service           disabled        enabled
+systemd-boot-random-seed.service             static          -
+systemd-boot-update.service                  disabled        enabled
+systemd-bootctl@.service                     static          -
+systemd-bsod.service                         static          -
+systemd-confext-initrd.service               static          -
+systemd-confext.service                      disabled        enabled
+systemd-coredump@.service                    static          -
+systemd-creds@.service                       static          -
+systemd-exit.service                         static          -
+systemd-factory-reset-complete.service       static          -
+systemd-factory-reset-reboot.service         static          -
+systemd-factory-reset-request.service        static          -
+systemd-factory-reset@.service               static          -
+systemd-firstboot.service                    static          -
+systemd-fsck-root.service                    static          -
+systemd-fsck@.service                        static          -
+systemd-growfs-root.service                  static          -
+systemd-growfs@.service                      static          -
+systemd-halt.service                         static          -
+systemd-hibernate-clear.service              static          -
+systemd-hibernate-resume.service             static          -
+systemd-hibernate.service                    static          -
+systemd-homed-activate.service               disabled        enabled
+systemd-homed-firstboot.service              disabled        disabled
+systemd-homed.service                        disabled        enabled
+systemd-hostnamed.service                    static          -
+systemd-hwdb-update.service                  static          -
+systemd-hybrid-sleep.service                 static          -
+systemd-importd.service                      static          -
+systemd-journal-catalog-update.service       static          -
+systemd-journal-flush.service                static          -
+systemd-journal-gatewayd.service             indirect        disabled
+systemd-journal-remote.service               indirect        disabled
+systemd-journal-upload.service               disabled        disabled
+systemd-journald-sync@.service               static          -
+systemd-journald.service                     static          -
+systemd-journald@.service                    static          -
+systemd-kexec.service                        static          -
+systemd-localed.service                      static          -
+systemd-logind.service                       static          -
+systemd-loop@.service                        static          -
+systemd-machine-id-commit.service            static          -
+systemd-machined.service                     static          -
+systemd-modules-load.service                 static          -
+systemd-mountfsd.service                     indirect        disabled
+systemd-network-generator.service            disabled        enabled
+systemd-networkd-persistent-storage.service  static          -
+systemd-networkd-wait-online.service         disabled        enabled
+systemd-networkd-wait-online@.service        disabled        disabled
+systemd-networkd.service                     disabled        enabled
+systemd-nspawn@.service                      disabled        disabled
+systemd-nsresourced.service                  indirect        disabled
+systemd-oomd.service                         disabled        disabled
+systemd-pcrextend@.service                   static          -
+systemd-pcrfs-root.service                   static          -
+systemd-pcrfs@.service                       static          -
+systemd-pcrlock-file-system.service          disabled        disabled
+systemd-pcrlock-firmware-code.service        disabled        disabled
+systemd-pcrlock-firmware-config.service      disabled        disabled
+systemd-pcrlock-machine-id.service           disabled        disabled
+systemd-pcrlock-make-policy.service          disabled        disabled
+systemd-pcrlock-secureboot-authority.service disabled        disabled
+systemd-pcrlock-secureboot-policy.service    disabled        disabled
+systemd-pcrlock@.service                     static          -
+systemd-pcrmachine.service                   static          -
+systemd-pcrphase-factory-reset.service       static          -
+systemd-pcrphase-initrd.service              static          -
+systemd-pcrphase-storage-target-mode.service static          -
+systemd-pcrphase-sysinit.service             static          -
+systemd-pcrphase.service                     static          -
+systemd-portabled.service                    static          -
+systemd-poweroff.service                     static          -
+systemd-pstore.service                       disabled        enabled
+systemd-quotacheck-root.service              static          -
+systemd-quotacheck@.service                  static          -
+systemd-random-seed.service                  static          -
+systemd-reboot.service                       static          -
+systemd-remount-fs.service                   enabled-runtime disabled
+systemd-repart.service                       static          -
+systemd-resolved.service                     disabled        enabled
+systemd-rfkill.service                       static          -
+systemd-soft-reboot.service                  static          -
+systemd-storagetm.service                    static          -
+systemd-suspend-then-hibernate.service       static          -
+systemd-suspend.service                      static          -
+systemd-sysctl.service                       static          -
+systemd-sysext-initrd.service                static          -
+systemd-sysext.service                       disabled        enabled
+systemd-sysext@.service                      static          -
+systemd-sysupdate-reboot.service             indirect        disabled
+systemd-sysupdate.service                    indirect        disabled
+systemd-sysusers.service                     static          -
+systemd-time-wait-sync.service               disabled        disabled
+systemd-timedated.service                    static          -
+systemd-timesyncd.service                    enabled         enabled
+systemd-tmpfiles-clean.service               static          -
+systemd-tmpfiles-setup-dev-early.service     static          -
+systemd-tmpfiles-setup-dev.service           static          -
+systemd-tmpfiles-setup.service               static          -
+systemd-tpm2-clear.service                   disabled        enabled
+systemd-tpm2-setup-early.service             static          -
+systemd-tpm2-setup.service                   static          -
+systemd-udev-load-credentials.service        disabled        disabled
+systemd-udev-settle.service                  static          -
+systemd-udev-trigger.service                 static          -
+systemd-udevd.service                        static          -
+systemd-update-done.service                  static          -
+systemd-update-utmp.service                  static          -
+systemd-user-sessions.service                static          -
+systemd-userdb-load-credentials.service      disabled        disabled
+systemd-userdbd.service                      indirect        disabled
+systemd-validatefs@.service                  indirect        disabled
+systemd-vconsole-setup.service               static          -
+systemd-vmspawn@.service                     disabled        disabled
+systemd-volatile-root.service                static          -
+systemd-zram-setup@.service                  static          -
+teamd@.service                               static          -
+udisks2.service                              disabled        disabled
+upower.service                               disabled        disabled
+user-runtime-dir@.service                    static          -
+user@.service                                static          -
+uuidd.service                                indirect        disabled
+wpa_supplicant-nl80211@.service              disabled        disabled
+wpa_supplicant-wired@.service                disabled        disabled
+wpa_supplicant.service                       disabled        disabled
+wpa_supplicant@.service                      disabled        disabled
+
+254 unit files listed.
+
+===== system_enabled_services =====
+UNIT FILE                          STATE   PRESET
+bluetooth.service                  enabled disabled
+cups.service                       enabled disabled
+getty@.service                     enabled enabled
+ly.service                         enabled disabled
+NetworkManager-dispatcher.service  enabled disabled
+NetworkManager-wait-online.service enabled disabled
+NetworkManager.service             enabled disabled
+nvidia-hibernate.service           enabled disabled
+nvidia-resume.service              enabled disabled
+nvidia-suspend.service             enabled disabled
+seatd.service                      enabled disabled
+systemd-timesyncd.service          enabled enabled
+
+12 unit files listed.
+
+===== system_timers =====
+NEXT                                 LEFT LAST                             PASSED UNIT                             ACTIVATES
+Wed 2025-10-22 22:00:00 EDT         11min Wed 2025-10-22 21:00:00 EDT   48min ago snapper-timeline.timer           snapper-timeline.service
+Wed 2025-10-22 22:41:26 EDT         53min Wed 2025-10-22 21:41:26 EDT    6min ago snapper-cleanup.timer            snapper-cleanup.service
+Thu 2025-10-23 00:00:00 EDT      2h 11min Wed 2025-10-22 08:45:36 EDT           - shadow.timer                     shadow.service
+Thu 2025-10-23 20:46:29 EDT           22h Wed 2025-10-22 20:46:29 EDT 1h 1min ago systemd-tmpfiles-clean.timer     systemd-tmpfiles-clean.service
+Sat 2025-11-01 15:24:33 EDT 1 week 2 days Tue 2025-10-21 20:36:24 EDT           - archlinux-keyring-wkd-sync.timer archlinux-keyring-wkd-sync.service
+
+5 timers listed.
+
+===== user_services_unit_files =====
+UNIT FILE                                       STATE     PRESET
+app-at\x2dspi\x2ddbus\x2dbus@autostart.service  generated -
+app-blueman@autostart.service                   generated -
+app-nm\x2dapplet@autostart.service              generated -
+at-spi-dbus-bus.service                         static    -
+blueman-applet.service                          static    -
+blueman-manager.service                         static    -
+dbus-:1.2-org.kde.kwalletd6@0.service           transient -
+dbus-:1.2-org.kde.secretservicecompat@0.service transient -
+dbus-:1.9-org.a11y.atspi.Registry@0.service     transient -
+dbus-broker.service                             disabled  enabled
+dbus.service                                    alias     -
+dconf.service                                   static    -
+dirmngr.service                                 static    -
+dunst.service                                   static    -
+elephant.service                                enabled   enabled
+filter-chain.service                            disabled  enabled
+fumon.service                                   disabled  enabled
+gcr-ssh-agent.service                           disabled  enabled
+glib-pacrunner.service                          static    -
+gpg-agent.service                               static    -
+kde-baloo.service                               disabled  enabled
+keyboxd.service                                 static    -
+mpris-proxy.service                             disabled  enabled
+p11-kit-server.service                          disabled  enabled
+pipewire-pulse.service                          disabled  enabled
+pipewire-session-manager.service                alias     -
+pipewire.service                                disabled  enabled
+plasma-dolphin.service                          static    -
+plasma-polkit-agent.service                     static    -
+ssh-agent.service                               indirect  enabled
+systemd-ask-password@.service                   static    -
+systemd-exit.service                            static    -
+systemd-nspawn@.service                         disabled  enabled
+systemd-tmpfiles-clean.service                  static    -
+systemd-tmpfiles-setup.service                  disabled  enabled
+systemd-vmspawn@.service                        disabled  enabled
+tinysparql-xdg-portal-3.service                 static    -
+waybar.service                                  enabled   enabled
+wayland-session-bindpid@.service                static    -
+wayland-session-waitenv.service                 static    -
+wayland-wm-app-daemon.service                   static    -
+wayland-wm-env@.service                         static    -
+wayland-wm@.service                             static    -
+wireplumber.service                             enabled   enabled
+wireplumber@.service                            disabled  enabled
+xdg-desktop-portal-hyprland.service             static    -
+xdg-desktop-portal-rewrite-launchers.service    disabled  enabled
+xdg-desktop-portal.service                      static    -
+xdg-document-portal.service                     static    -
+xdg-permission-store.service                    static    -
+
+50 unit files listed.
+
+===== user_enabled_services =====
+UNIT FILE           STATE   PRESET
+elephant.service    enabled enabled
+waybar.service      enabled enabled
+wireplumber.service enabled enabled
+
+3 unit files listed.
+
+===== user_timers =====
+NEXT LEFT LAST PASSED UNIT ACTIVATES
+
+0 timers listed.
+
+===== failed_units_system =====
+  UNIT LOAD ACTIVE SUB DESCRIPTION
+
+0 loaded units listed.
+
+===== failed_units_user =====
+  UNIT LOAD ACTIVE SUB DESCRIPTION
+
+0 loaded units listed.

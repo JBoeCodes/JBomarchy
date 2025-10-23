@@ -1,0 +1,26 @@
+
+===== space_home =====
+0	/home/jboe/downloads
+0	/home/jboe/Downloads
+0	/home/jboe/music
+0	/home/jboe/.nv
+12K	/home/jboe/bin
+68K	/home/jboe/.pki
+104K	/home/jboe/arch-inventory-20251022-214804
+536K	/home/jboe/.local
+43M	/home/jboe/go
+60M	/home/jboe/wallpapers
+264M	/home/jboe/.cargo
+647M	/home/jboe/.config
+909M	/home/jboe/.cache
+1.9G	/home/jboe
+
+===== space_root_top =====
+0	/mnt
+0	/srv
+24K	/root
+35M	/etc
+407M	/opt
+2.5G	/var
+5.7G	/usr
+8.6G	/

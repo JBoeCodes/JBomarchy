@@ -1,0 +1,14 @@
+
+===== broken_symlinks_in_config =====
+/home/jboe/.config/BraveSoftware/Brave-Browser/SingletonCookie -> BROKEN
+/home/jboe/.config/BraveSoftware/Brave-Browser/SingletonLock -> BROKEN
+/home/jboe/.config/gtk-3.0/gtk.css -> BROKEN
+/home/jboe/.config/gtk-3.0/gtk-dark.css -> BROKEN
+/home/jboe/.config/gtk-4.0/gtk.css -> BROKEN
+/home/jboe/.config/gtk-4.0/gtk-dark.css -> BROKEN
+
+===== rofi_files =====
+
+===== waybar_key_files =====
+/home/jboe/.config/waybar/config
+/home/jboe/.config/waybar/style.css

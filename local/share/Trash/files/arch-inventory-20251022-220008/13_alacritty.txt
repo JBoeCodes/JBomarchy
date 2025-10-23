@@ -1,0 +1,3 @@
+## /home/jboe/.config/alacritty
+2025-10-22 11:22	/home/jboe/.config/alacritty/alacritty.yml.bak	    478
+2025-10-22 12:25	/home/jboe/.config/alacritty/alacritty.toml	    103

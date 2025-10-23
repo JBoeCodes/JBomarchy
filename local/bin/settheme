@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+# settheme /path/to/image
+img="$1"
+
+if [ -z "$img" ]; then
+  echo "Usage: settheme /path/to/image"
+  exit 1
+fi
+
+pgrep -x swww-daemon >/dev/null || swww-daemon &
+swww img "$img" --transition-type any --transition-duration 1
+wal -i "$img" -n
+wal2hypr                      # <— add this line
+# ensure GTK picks up the new palette
+for v in 3.0 4.0; do
+  mkdir -p "$HOME/.config/gtk-$v"
+  ln -sf "$HOME/.cache/wal/colors-gtk.css" "$HOME/.config/gtk-$v/gtk.css"
+  ln -sf "$HOME/.cache/wal/colors-gtk.css" "$HOME/.config/gtk-$v/gtk-dark.css"
+done
+pkill waybar && hyprctl dispatch exec waybar
+hyprctl reload
+command -v notify-send >/dev/null && notify-send "Theme applied" "$(basename "$img")"
+

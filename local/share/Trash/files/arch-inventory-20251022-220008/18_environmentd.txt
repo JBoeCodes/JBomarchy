@@ -1,0 +1,2 @@
+## /home/jboe/.config/environment.d
+2025-10-22 21:02	/home/jboe/.config/environment.d/elephant.conf	     38
