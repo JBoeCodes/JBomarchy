@@ -1,0 +1,13 @@
+[Unit]
+Description=Apply theme after login
+After=graphical-session.target swww-daemon.service
+Wants=theme.target
+
+[Service]
+Type=oneshot
+Environment=WAYLAND_DISPLAY=wayland-1
+ExecStart=%h/bin/settheme
+RemainAfterExit=yes
+
+[Install]
+WantedBy=theme.target

@@ -1,0 +1,6 @@
+[Unit]
+Description=Watch swww cache for wallpaper change
+
+[Path]
+PathChanged=%h/.cache/swww
+Unit=settheme-on-wallpaper.service

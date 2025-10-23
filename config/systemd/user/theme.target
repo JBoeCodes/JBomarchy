@@ -1,0 +1,4 @@
+[Unit]
+Description=User Theme Stack Ready
+Wants=graphical-session.target
+After=graphical-session.target
